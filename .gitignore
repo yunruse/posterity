@@ -1,4 +1,9 @@
+# Cruft
 *.DS_Store
 __pycache__/
 
+# In-use files
 projects/
+
+# Build
+venv/
