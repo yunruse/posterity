@@ -1,0 +1,2 @@
+
+fontMono = ('Consolas', 11)
